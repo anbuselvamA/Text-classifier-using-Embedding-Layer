@@ -30,9 +30,9 @@ STEP 7:
 Evaluate the model's accuracy and loss, and plot the results to track performance over time.
 
 ## PROGRAM
-Name: Suji.G
+Name: ANBUSELVAM . A
 
-Register Number: 212222230152
+Register Number: 212222240009
 ### Import necessary packages
 ```
 import tensorflow as tf
